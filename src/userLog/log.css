@@ -1,0 +1,35 @@
+.fondo_form{
+    background: rgba(107, 105, 105, 0.4);
+    margin: 2rem;
+    border-radius: 20px;
+    padding-bottom: 1.5rem;
+}
+
+.contenedor_form{
+
+    padding-top: 2rem;
+    margin: 2rem;
+}
+.botones_s{
+    background: transparent;
+    margin-right: 2rem ;
+    padding: 5px;
+    margin-left: 2.5rem;
+}
+.title{
+    padding-top: 50px;
+}
+.title1{
+    padding-top: 10px;
+}
+input {
+    margin-right: 10rem;
+    margin-bottom: 15px; /* Agregar espacio entre los elementos input */
+  }
+  label{
+    margin-bottom: 10px;
+  }
+  .form_todo{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+  }
